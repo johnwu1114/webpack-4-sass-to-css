@@ -83,7 +83,7 @@ module.exports = config;
 ### 定義 npm 指令
 
 在 `package.json` 中找到 **scripts** 區塊，新增一個 **build** 的指令：  
-```json
+```js
 {
   // ..
   "scripts": {
